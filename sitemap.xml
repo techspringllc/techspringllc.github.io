@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://gotechspring.com/about/</loc>
+    <lastmod>2018-12-25T21:12:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotechspring.com/iaas-to-paas/</loc>
+    <lastmod>2018-12-23T22:14:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gotechspring.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gotechspring.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gotechspring.com/</loc>
+    <lastmod>2018-12-25T21:12:25-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
