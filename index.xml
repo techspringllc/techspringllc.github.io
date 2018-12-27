@@ -7,9 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Wed, 26 Dec 2018 21:58:41 -0500</lastBuildDate>
     
 	<atom:link href="https://gotechspring.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Are your developers spending too much time wrangling infrastructure?</title>
+      <link>https://gotechspring.com/solution/</link>
+      <pubDate>Wed, 26 Dec 2018 21:58:41 -0500</pubDate>
+      
+      <guid>https://gotechspring.com/solution/</guid>
+      <description>Are you falling behind on delivering product work? Do servers go unpatched because no one has time to do updates? Is anyone on your team really qualified to manage infrastructure security?  Imagine getting that time back.  Imagine having more time to devote to project work. Imagine never wondering if the latest CVE was patched. Imagine knowing that a team of dedicated network security pros are watching your infrastructure.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://gotechspring.com/about/</link>
+      <pubDate>Tue, 25 Dec 2018 21:12:25 -0500</pubDate>
+      
+      <guid>https://gotechspring.com/about/</guid>
+      <description>techspring is on a mission to help startups get developer time back by removing operations work from their schedule. Developer time is valuable and any time spent away from building the product and crushing bugs is wasted.
+We help get startups through the &amp;ldquo;too small for ops&amp;rdquo; phase until the time is right for managing their own infrastructure.</description>
+    </item>
+    
+    <item>
+      <title>Migrating from IaaS to PaaS</title>
+      <link>https://gotechspring.com/iaas-to-paas/</link>
+      <pubDate>Sun, 23 Dec 2018 22:14:25 -0500</pubDate>
+      
+      <guid>https://gotechspring.com/iaas-to-paas/</guid>
+      <description>Migrating from IaaS to PaaS Click on the link below to get your free checklist What you learn by reading Migrating from IaaS to PaaS will give you actionable steps to prepare for a migration to PaaS.
+Download Migrating from IaaS to PaaS
+Dig in right away. Please send me an email at bill@gotechspring.com if you have any questions at all.
+Yours,
+— Bill
+P.S. Do you have a friend who might benefit from Migrating from IaaS to PaaS?</description>
+    </item>
     
   </channel>
 </rss>

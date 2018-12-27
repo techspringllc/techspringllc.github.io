@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gotechspring.com/solution/</loc>
+    <lastmod>2018-12-26T21:58:41-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gotechspring.com/about/</loc>
     <lastmod>2018-12-25T21:12:25-05:00</lastmod>
   </url>
@@ -24,7 +29,7 @@
   
   <url>
     <loc>https://gotechspring.com/</loc>
-    <lastmod>2018-12-25T21:12:25-05:00</lastmod>
+    <lastmod>2018-12-26T21:58:41-05:00</lastmod>
     <priority>0</priority>
   </url>
   
